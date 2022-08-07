@@ -1,3 +1,3 @@
-###Outline of Algorithms
+### Outline of Algorithms
 
-#####Basic algorithms for logic ideas in Go.
+##### Basic algorithms for logic ideas in Go.
