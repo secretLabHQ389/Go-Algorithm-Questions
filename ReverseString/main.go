@@ -1,5 +1,7 @@
 package main
 
+import "fmt"
+
 func main() {
   str := "ceremony"
   chars := []rune(str)
@@ -7,5 +9,5 @@ func main() {
   for i := len(chars) - 1; i >= 0; i-- {
       result = append(result, chars[i])
   }
-  println(string(result))
+  fmt.Println(string(result))
 }
